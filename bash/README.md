@@ -1,0 +1,1 @@
+If you need to configure something, use this script instead of type by yourself.
